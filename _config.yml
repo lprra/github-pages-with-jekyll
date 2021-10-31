@@ -1,12 +1,12 @@
 title: Your awesome title
 author: lprra 
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-This sitee is created as an attempt of using github pages with jekyll
+# Write an awesome description for your new site here. You can edit this    line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
+description:  > # this means to ignore newlines until "baseurl:"
+  This is a sample Jekyll Blog 
 
+baseurl: ""  # the subpath of your site.Empty string indicates your site is hosted at the root. If your site is located in http://yourdomain.com/blog, e.g. /blog
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  lprra  #  your-github-handle # DO NOT include the @ character, or else the build will fail!
