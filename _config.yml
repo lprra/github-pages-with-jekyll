@@ -6,8 +6,9 @@ email: your-email@domain.com
 description:  > # this means to ignore newlines until "baseurl:"
   This is a sample Jekyll Blog 
 
-baseurl: ""  # the subpath of your site.Empty string indicates your site is hosted at the root. If your site is located in http://yourdomain.com/blog, e.g. /blog
+baseurl: "/github-pages-with-jekyll"  # the subpath of your site.Empty string indicates your site is hosted at the root. If your site is located in http://yourdomain.com/blog, e.g. /blog
 # social links
+url: "https://lprra.github.io"
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  lprra  #  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
